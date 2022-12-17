@@ -7,12 +7,12 @@ navname: About
 
 Ranch MC is a simple, flexible template website for Minecraft servers.
 
-[GitHub]([https://github.com/coffeebank/moonrise](https://github.com/animeshwarrens/ranch))
+[GitHub](https://github.com/animeshwarrens/ranchmc)
 
 
 # Terms of Use
 
-Ranch MC is free for use [under the MIT license]([https://github.com/coffeebank/moonrise](https://github.com/animeshwarrens/ranch)).
+Ranch MC is free for use [under the MIT license](https://github.com/animeshwarrens/ranchmc).
 
 
 # Privacy Policy
