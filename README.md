@@ -1,6 +1,6 @@
 ![Moonrise logo](docs/media/favicon.ico) 
 
-# Moonrise
+# Ranch MC
 
 A simple, lightweight, responsive landing page template for a Minecraft server. Integrates with Discord, Minecraft server status, and GitHub Pages to host a free website.
 
@@ -16,7 +16,7 @@ Features:
 
 [![Support Discord](https://img.shields.io/badge/Support%20Discord-▸-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://coffeebank.github.io/discord)
 
-Demo: https://coffeebank.github.io/moonrise
+Demo: https://github.com/animeshwarrens/ranchmc
 
 ![CrispBuild demo](docs/media/demo01.jpg)
 
